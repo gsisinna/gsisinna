@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Humanoid Robotics
 - 🌱 I’m currently learning Software Engineering, Robotics middleware (ROS, YARP) and C++ programming
-- 👯 I’m looking to collaborate on open source projects based on Linux and Python
+- 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with creating a new startup 😉
 - 💬 Ask me about Robotics, Biorobotics, Exoskeletons and Bionic Prosthesis
 - 📫 How to reach me: gabriele.sisinna@gmail.com
