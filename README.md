@@ -8,6 +8,6 @@
 - 🌱 I’m currently learning Software Engineering, Robotics middleware (ROS, YARP) and C++ programming
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with creating new innovative products 😉
-- 💬 Ask me about Robotics, Biorobotics, Exoskeletons and Bionic Prosthesis
+- 💬 Ask me about Robotics, Biorobotics and Bionic Prosthesis
 - 📫 How to reach me: gabriele.sisinna@gmail.com
 - ⚡ [Linkedin](https://www.linkedin.com/in/gabriele-sisinna-4a6081109/)
