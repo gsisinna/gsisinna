@@ -2,8 +2,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gsisinna&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Robotics Technician @ Istituto Italiano di Tecnologia (IIT)
-
 - 🔭 I’m currently working on Humanoid Robotics
 - 🌱 I’m currently learning Software Engineering, Robotics middleware (ROS, YARP) and C++ programming
 - 👯 I’m looking to collaborate on open source projects
