@@ -2,7 +2,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gsisinna)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on Humanoid Robotics
+- 🔭 I’m currently working on Robotics
 - 🌱 I’m currently learning Software Engineering, ROS2 and C++
 - 🤔 I’m looking for help with creating new innovative products!
 - 💬 Ask me about Robotics and Biorobotics
