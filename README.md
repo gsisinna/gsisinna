@@ -10,6 +10,3 @@
 - 📫 How to reach me: gabriele.sisinna@gmail.com
 - ⚡ [Linkedin](https://www.linkedin.com/in/gabriele-sisinna-4a6081109/)
 
-![snake gif](https://github.com/gsisinna/gsisinna/blob/output/github-contribution-grid-snake.gif)
-
-
