@@ -18,4 +18,9 @@
 
 🚀 Robotics | 💻 C++ | 🐍 Python | 🌐 Simulations | 🤖 Robotic Modeling | 🛠️ CI/CD Testing | 🛠️ Software Engineering
 
-Let's connect and explore the fascinating world of robotics together!
+### Technologies and tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,arduino,atom,bash,bitbucket,blender,c,cpp,cmake,debian,deno,docker,electron,git,github,githubactions,gitlab,html,ai,js,latex,linux,lua,md,matlab,mint,mongodb,mysql,nodejs,npm,obsidian,octave,opencv,postman,powershell,py,qt,raspberrypi,rust,ts,ubuntu,unity,unreal,visualstudio,vscode,vue,windows,wordpress" />
+  </a>
+</p>
