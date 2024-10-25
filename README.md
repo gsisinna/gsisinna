@@ -16,7 +16,7 @@ I'm passionate about **robotics**, **bionics**, and **simulations**, and I love 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gsisinna/gsisinna/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Contribution" width="600" />
+  <img src="https://raw.githubusercontent.com/gsisinna/gsisinna/refs/heads/main/profile-3d-contrib/stats.svg" alt="Contribution" width="600" />
 </p>
 
 ---
