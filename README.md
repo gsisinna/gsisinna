@@ -30,7 +30,7 @@ I'm passionate about **robotics**, **bionics**, and **simulations**, and I love 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,arduino,atom,bash,bitbucket,blender,c,cpp,cmake,debian,deno,docker,electron,git,github,githubactions,gitlab,html,ai,js,latex,linux,lua,md,matlab,mint,mongodb,mysql,nodejs,npm,obsidian,octave,opencv,postman,powershell,py,qt,raspberrypi,rust,ts,ubuntu,unity,unreal,visualstudio,vscode,vue,windows,wordpress" />
+    <img src="https://skillicons.dev/icons?i=arch,arduino,bash,blender,c,cpp,cmake,debian,deno,docker,electron,git,github,githubactions,gitlab,html,ai,js,latex,linux,lua,md,matlab,mint,mongodb,mysql,nodejs,npm,obsidian,opencv,postman,powershell,py,qt,raspberrypi,rust,ts,ubuntu,unity,unreal,visualstudio,vscode,vue,windows,wordpress" />
   </a>
 </p>
 
