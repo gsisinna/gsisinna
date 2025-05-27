@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,arduino,bash,blender,c,cpp,cmake,debian,docker,electron,git,github,githubactions,gitlab,html,js,latex,linux,lua,matlab,mongodb,mysql,nodejs,obsidian,opencv,postman,py,qt,raspberrypi,ts,ubuntu,unity,unreal,vscode,rust" alt="Tech Icons"/>
+    <img src="https://skillicons.dev/icons?i=arch,arduino,bash,blender,c,cpp,cmake,debian,docker,electron,git,github,githubactions,gitlab,html,js,linux,lua,mongodb,nodejs,opencv,postman,py,qt,raspberrypi,ts,ubuntu,unreal,vscode,rust" alt="Tech Icons"/>
   </a>
 </p>
 
