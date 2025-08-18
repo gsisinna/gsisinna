@@ -8,7 +8,7 @@
 <!-- 🛠️ Skills & Tech Stack -->
 <h2 align="center">🛠️ Skills & Tech Stack</h2>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Robotics-%23FFB347.svg?style=for-the-badge&logo=OpenRobotics&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/Simulation-8B5CF6.svg?style=for-the-badge&logo=ros&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kinematics%20%26%20Modeling-FFA07A.svg?style=for-the-badge&logo=matrix&logoColor=white"/>
   <img src="https://img.shields.io/badge/CI%2FCD-0A0AFF.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Testing%20Automation-9400D3.svg?style=for-the-badge&logo=pytest&logoColor=white"/>
 </p>
 
 ---
