@@ -21,22 +21,11 @@
 
 ---
 
-<!-- 🏆 Trophies -->
-<h2 align="center">🏆 Trophies</h2>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gsisinna&theme=gruvbox&margin-w=15&no-frame=true&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
 <!-- 👋 About Me -->
 <h2 align="center">👋 About Me</h2>
 
 <p align="center">
-  Hey there! I’m <b>Gabriele</b> — a robotics nerd with a passion for code, circuits, and a strong dependency on caffeine.
+  Hey there! I’m <b>Gabriele</b> — a robotics nerd with a passion for code, circuits and a strong dependency on caffeine.
 </p>
 
 <ul>
